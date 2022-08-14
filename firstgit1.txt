@@ -1,1 +1,2 @@
 This is te first statement in firstgit1.txt
+thos id the second statement
