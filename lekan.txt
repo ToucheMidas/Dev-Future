@@ -8,3 +8,4 @@ dev 1st input on lekantxt
 dev 2nd input on lekantxt
 dev 3rd input on lekantxt
 This is Future's 1st statement in lekantxt
+-am Add Future's 2nd statement
