@@ -3,6 +3,12 @@ I'm a Muslim
 I'm a hubby
 God be Praised
 There is no other worthy of Praise
+<<<<<<< HEAD
 dev 1st input on lekantxt
 dev 2nd input on lekantxt
 dev 3rd input on lekantxt
+=======
+Future 1st statement into lekantxt
+Future 2nd statement into lekantxt
+Future 3rd statement into lekantxt
+>>>>>>> future
